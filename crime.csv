@@ -1,0 +1,303 @@
+date,time_of_day,crime_type,location,latitude,longitude,victim_gender,victim_age,perpetrator_gender,perpetrator_age,weapon,injury,weather,temperature,previous_activity
+08-02-2023,03:01:47,Forgery,Guindy,12.87812376,80.2341178,Other,65.0,Other,23.0,Blunt Object,,Clear,21.7,Driving
+10/31/2022,19:01:35,Burglary,Sholinganallur,13.02745955,80.18623537,Male,46.0,Other,35.0,,Minor,Partly Cloudy,27.6,Jogging
+11/14/2020,06:48:21,Robbery,T Nagar,12.93297456,80.13974485,Female,56.0,Female,69.0,,Fatal,Fog,22.2,Shopping
+06-10-2020,17:18:53,Drug Offense,Pallavaram,12.86730101,80.06738879,Other,32.0,Female,23.0,Knife,,Hazy,25.0,Dining
+09-04-2024,11:10:23,Drug Offense,Guindy,13.03456131,80.22545508,Other,59.0,Male,56.0,Knife,Minor,Rain,28.3,Jogging
+08-03-2023,22:35:14,Drug Offense,Ambattur,13.06890975,80.06398449,Male,69.0,Female,43.0,Gun,,Rain,36.4,Sleeping
+11/29/2024,22:20:13,Embezzlement,Perambur,13.1096391,80.21071297,Male,34.0,Male,33.0,Gun,Fatal,Fog,27.2,Driving
+10-10-2020,16:31:05,Assault,Ambattur,12.8383772,80.20686151,Other,45.0,Other,22.0,Blunt Object,Fatal,Fog,37.9,Sleeping
+05/29/2021,17:55:00,Robbery,Porur,13.10967596,80.23771945,Other,39.0,Male,36.0,Blunt Object,Minor,Hazy,20.1,Dining
+11/28/2024,23:16:32,Theft,Avadi,13.11941974,80.26762964,Female,58.0,Other,56.0,Knife,Minor,Overcast,33.7,Sleeping
+05/13/2024,16:58:00,Drug Offense,Anna Nagar,12.80681686,80.28227465,Female,33.0,Male,33.0,,,Partly Cloudy,28.7,Walking
+04-06-2024,17:49:08,Theft,Porur,12.96634883,80.1874509,Female,51.0,Other,45.0,Knife,Minor,Partly Cloudy,25.6,Dining
+08/23/2023,11:28:57,Embezzlement,T Nagar,12.88676696,80.06600647,Male,55.0,Other,32.0,Knife,,Clear,32.7,Walking
+04/13/2021,02:57:02,Drug Offense,T Nagar,12.97995464,80.11961932,Female,31.0,Other,26.0,Blunt Object,Minor,Hazy,34.5,Driving
+07-12-2020,03:42:27,Drug Offense,Perambur,12.9438858,80.26595919,Male,61.0,Other,59.0,,,Hazy,33.1,Working
+10/30/2024,03:15:12,Burglary,Avadi,12.95701474,80.15547041,Female,47.0,Male,22.0,Blunt Object,,Clear,31.7,Sleeping
+09-08-2024,00:05:59,Burglary,Velachery,12.94224492,80.1703396,Female,21.0,Male,42.0,,Fatal,Overcast,36.7,Working
+07/20/2022,09:27:44,Embezzlement,Velachery,12.86646425,80.10442522,Male,55.0,Other,52.0,,Major,Clear,20.9,Shopping
+10/26/2022,16:10:03,Robbery,Ambattur,12.86503874,80.19875878,Other,33.0,Female,25.0,Knife,,Fog,21.5,Dining
+04-10-2023,18:33:20,Forgery,Guindy,13.03440409,80.12854597,Female,43.0,Male,60.0,Gun,Fatal,Overcast,36.7,Walking
+01/20/2020,14:39:36,Robbery,T Nagar,12.98817204,80.17647117,Male,40.0,Male,33.0,Gun,Major,Rain,27.9,Sleeping
+12-11-2023,09:39:51,Assault,Porur,13.08598645,80.12484469,Other,24.0,Male,34.0,,,Partly Cloudy,30.0,Jogging
+07/31/2021,19:13:45,Drug Offense,Guindy,13.040624,80.2632282,Other,49.0,Female,21.0,,Fatal,Overcast,20.8,Jogging
+04/28/2024,04:40:16,Theft,Sholinganallur,12.95464243,80.22641686,Other,18.0,Male,22.0,Knife,,Overcast,30.5,Driving
+05/30/2022,04:02:19,Drug Offense,Karapakkam,13.1265808,80.29304907,Male,40.0,Male,61.0,Knife,,Overcast,34.0,Working
+04-12-2022,19:47:09,Burglary,Ambattur,12.85687562,80.24997176,Male,44.0,Male,29.0,Gun,Fatal,Partly Cloudy,35.6,Working
+05/23/2021,08:10:50,Robbery,Perambur,13.10525837,80.26464831,Male,30.0,Female,40.0,Gun,Minor,Rain,20.4,Driving
+03/27/2022,10:17:55,Robbery,Chromepet,12.89769375,80.21037043,Female,61.0,Other,39.0,,,Overcast,23.2,Jogging
+03/19/2020,03:38:27,Drug Offense,Sholinganallur,13.07524986,80.15909847,Other,25.0,Female,54.0,Knife,Major,Clear,32.8,Walking
+11/30/2022,17:43:46,Burglary,Tambaram,12.95095409,80.28721862,Female,57.0,Female,60.0,,Major,Fog,25.6,Shopping
+10/30/2021,12:44:18,Theft,Guindy,12.94715622,80.28509092,Other,65.0,Male,57.0,Gun,Fatal,Fog,35.0,Jogging
+08-10-2021,06:27:50,Drug Offense,Anna Nagar,12.95462511,80.21890681,Other,48.0,Other,28.0,,Major,Fog,31.9,Sleeping
+11/17/2021,02:52:48,Burglary,Porur,12.90864681,80.25164072,Male,19.0,Male,33.0,Blunt Object,,Hazy,27.5,Dining
+03/24/2023,06:45:44,Vandalism,Anna Nagar,12.9398785,80.08689284,Other,18.0,Male,67.0,Blunt Object,Minor,Rain,34.5,Dining
+11/26/2022,14:03:35,Burglary,Karapakkam,13.09691772,80.16411546,Female,60.0,Other,53.0,Gun,Fatal,Fog,34.7,Sleeping
+05/23/2022,17:28:57,Theft,Sholinganallur,13.10152322,80.16251744,Male,58.0,Female,67.0,Blunt Object,Minor,Overcast,27.9,Dining
+08-08-2021,07:17:21,Drug Offense,Karapakkam,12.98905328,80.08459352,Male,42.0,Other,27.0,Knife,,Hazy,27.3,Sleeping
+08-12-2022,13:03:13,Vandalism,Perambur,13.11669347,80.19601985,Other,19.0,Other,42.0,Blunt Object,,Overcast,25.4,Shopping
+10/13/2024,13:34:47,Burglary,Anna Nagar,12.87679757,80.15895899,Male,42.0,Female,60.0,Blunt Object,Minor,Hazy,36.6,Sleeping
+12/29/2022,00:58:25,Assault,T Nagar,13.02496238,80.08392487,Female,29.0,Male,34.0,Blunt Object,Major,Rain,28.2,Jogging
+04-07-2024,12:17:48,Vandalism,Kodambakkam,13.09221882,80.16757671,Other,52.0,Male,40.0,Knife,,Partly Cloudy,20.7,Walking
+05/21/2021,06:53:01,Theft,Guindy,12.84417734,80.21736471,Other,31.0,Female,62.0,Gun,Major,Rain,30.9,Dining
+01-11-2024,03:49:52,Theft,Kodambakkam,12.83783456,80.05641961,Female,54.0,Other,42.0,Blunt Object,Minor,Clear,30.7,Working
+07-08-2023,07:06:44,Forgery,Ambattur,13.03949066,80.25138199,Other,68.0,Male,40.0,Blunt Object,Major,Clear,29.1,Jogging
+01/26/2020,13:52:31,Robbery,Perambur,13.13627565,80.20889628,Female,63.0,Male,45.0,Knife,Major,Fog,34.5,Sleeping
+05-05-2024,15:29:27,Forgery,Tambaram,13.09809961,80.25768275,Male,35.0,Female,33.0,Blunt Object,Fatal,Overcast,20.5,Working
+10/27/2021,05:31:13,Drug Offense,Chromepet,12.89042334,80.11991462,Other,62.0,Female,53.0,,Minor,Clear,24.3,Shopping
+09/27/2022,17:48:15,Embezzlement,Porur,13.04914484,80.16204364,Male,23.0,Female,32.0,Blunt Object,Minor,Overcast,32.0,Jogging
+08/27/2022,17:33:22,Vandalism,Sholinganallur,12.99263597,80.13795263,Female,35.0,Female,34.0,Knife,,Partly Cloudy,23.5,Walking
+03-01-2024,17:48:44,Theft,Guindy,12.87573462,80.17104965,Other,55.0,Other,56.0,Gun,,Rain,25.3,Jogging
+01-02-2021,09:00:45,Theft,Kodambakkam,12.8159305,80.06363151,Female,62.0,Male,58.0,Blunt Object,,Clear,30.3,Shopping
+09-07-2022,14:21:11,Assault,Kodambakkam,13.12937226,80.1694323,Male,43.0,Female,22.0,,Minor,Rain,34.6,Jogging
+06/23/2020,07:07:35,Vandalism,Pallavaram,13.0086444,80.20460459,Other,42.0,Female,46.0,Gun,Fatal,Overcast,30.2,Walking
+06-02-2023,23:06:48,Burglary,Porur,12.87385882,80.21510703,Male,33.0,Male,53.0,,Minor,Clear,27.4,Dining
+05-01-2023,15:18:02,Burglary,Kodambakkam,13.04743454,80.22574689,Female,22.0,Other,32.0,Gun,Minor,Hazy,22.1,Driving
+08/19/2023,04:58:17,Theft,T Nagar,12.82087331,80.24815714,Other,65.0,Other,36.0,Blunt Object,,Hazy,32.4,Dining
+04-04-2022,08:32:34,Embezzlement,Anna Nagar,12.82815465,80.0599652,Female,65.0,Female,56.0,Gun,,Clear,24.1,Dining
+09-08-2024,18:37:01,Forgery,Pallavaram,12.81408109,80.23906721,Female,51.0,Other,46.0,Gun,Minor,Fog,27.8,Working
+10-04-2022,02:30:22,Vandalism,Tambaram,12.91237039,80.07614997,Male,39.0,Female,62.0,Blunt Object,Major,Partly Cloudy,37.0,Working
+04-06-2024,17:02:29,Robbery,Tambaram,12.8883396,80.0789804,Female,50.0,Male,60.0,Blunt Object,Fatal,Clear,23.4,Jogging
+06/29/2023,15:40:28,Assault,Guindy,12.89346968,80.08275331,Female,46.0,Other,49.0,,,Partly Cloudy,31.0,Driving
+12/24/2023,05:19:35,Assault,Avadi,12.94279674,80.10617516,Male,47.0,Male,59.0,Knife,Fatal,Partly Cloudy,25.3,Dining
+07/13/2021,13:53:30,Embezzlement,Guindy,12.95987527,80.08616049,Male,56.0,Other,65.0,Knife,,Overcast,33.9,Working
+04/29/2022,10:59:50,Forgery,Ambattur,12.80089784,80.23151275,Other,55.0,Other,49.0,Knife,Fatal,Fog,28.7,Jogging
+02-04-2023,17:24:29,Drug Offense,Ambattur,12.86602833,80.22437461,Other,42.0,Male,67.0,Blunt Object,,Overcast,33.4,Dining
+07/19/2024,12:24:42,Theft,Anna Nagar,13.13768855,80.08156157,Other,39.0,Male,46.0,,Fatal,Clear,33.0,Shopping
+11/18/2024,20:09:04,Embezzlement,Chromepet,13.13922127,80.13464031,Other,43.0,Other,23.0,Gun,Fatal,Overcast,31.3,Working
+09/26/2022,17:02:39,Robbery,Guindy,13.02090636,80.28023227,Male,65.0,Male,45.0,,,Hazy,23.0,Jogging
+02/29/2020,01:20:50,Assault,Kodambakkam,12.92546217,80.1576717,Male,51.0,Female,54.0,Knife,Minor,Rain,21.4,Working
+02/22/2022,19:43:15,Embezzlement,Karapakkam,13.004105,80.10804711,Other,34.0,Female,34.0,,Fatal,Overcast,32.2,Driving
+05/31/2020,14:22:37,Forgery,Porur,13.13671018,80.22257838,Female,37.0,Male,42.0,Blunt Object,,Rain,26.9,Jogging
+03/23/2023,09:44:18,Assault,Ambattur,13.03038044,80.1186201,Other,61.0,Other,21.0,Blunt Object,Major,Rain,30.9,Jogging
+03/24/2021,20:12:39,Forgery,Porur,13.06445206,80.24186769,Other,26.0,Other,24.0,,Major,Hazy,20.6,Jogging
+02-08-2024,04:05:58,Forgery,Tambaram,13.0616183,80.09391002,Male,68.0,Other,41.0,Gun,Minor,Overcast,36.5,Shopping
+07-09-2024,09:47:55,Drug Offense,Chromepet,12.8403094,80.29072332,Male,66.0,Male,61.0,Blunt Object,Major,Clear,34.2,Walking
+06/25/2021,17:07:29,Drug Offense,Porur,13.06215406,80.11554035,Female,58.0,Female,24.0,Knife,Fatal,Clear,31.2,Sleeping
+11-02-2021,19:14:41,Robbery,Porur,13.08834937,80.27734691,Female,59.0,Female,25.0,Knife,,Clear,25.5,Shopping
+08/25/2020,03:15:56,Theft,Perambur,12.95877531,80.21762155,Other,62.0,Other,44.0,Knife,Fatal,Partly Cloudy,21.8,Shopping
+06/14/2023,13:17:02,Drug Offense,Guindy,12.95518408,80.28763879,Female,24.0,Other,41.0,Gun,,Hazy,25.0,Walking
+10-02-2024,14:05:42,Burglary,Porur,13.02382252,80.29277333,Male,68.0,Female,33.0,Knife,Minor,Clear,34.9,Sleeping
+02/28/2021,18:13:52,Burglary,Tambaram,13.071029,80.24716094,Other,18.0,Female,27.0,Knife,Major,Rain,22.0,Working
+02/22/2020,04:00:22,Burglary,Pallavaram,12.91332001,80.09356155,Male,26.0,Other,44.0,,,Hazy,28.1,Jogging
+11/17/2022,18:06:28,Burglary,Pallavaram,12.81517776,80.24580675,Other,51.0,Female,47.0,,,Hazy,35.3,Shopping
+11-06-2023,03:31:45,Embezzlement,T Nagar,13.11474337,80.13052795,Male,22.0,Male,35.0,Gun,Fatal,Fog,29.6,Shopping
+11-01-2022,19:27:06,Robbery,Ambattur,13.02914954,80.26942655,Other,64.0,Male,45.0,Blunt Object,Minor,Hazy,26.1,Shopping
+03/27/2022,13:46:06,Drug Offense,Perambur,12.90938325,80.11372245,Male,61.0,Female,22.0,,,Clear,27.8,Dining
+02/22/2024,11:51:08,Assault,Pallavaram,13.13481862,80.19042085,Other,25.0,Female,40.0,Blunt Object,,Overcast,30.8,Jogging
+07/31/2020,18:32:13,Theft,Porur,12.96876629,80.26181871,Female,53.0,Female,25.0,Gun,Minor,Hazy,35.2,Working
+08-03-2024,19:39:43,Assault,Pallavaram,13.1251795,80.2573652,Female,19.0,Male,35.0,Gun,Major,Overcast,20.1,Working
+10/20/2020,18:42:25,Robbery,Velachery,13.05933917,80.29295258,Male,65.0,Other,31.0,Blunt Object,Fatal,Hazy,26.1,Jogging
+09/30/2021,23:20:49,Robbery,Karapakkam,12.81841309,80.08935247,Other,21.0,Other,23.0,Gun,Fatal,Partly Cloudy,27.6,Sleeping
+06/24/2022,13:17:13,Robbery,Tambaram,12.95046977,80.12081162,Other,55.0,Female,51.0,Gun,,Rain,27.1,Sleeping
+04/22/2020,00:13:19,Burglary,Chromepet,12.84803218,80.11387988,Female,25.0,Male,49.0,Blunt Object,Minor,Rain,26.8,Dining
+04/16/2021,16:35:53,Drug Offense,T Nagar,12.93897491,80.23551033,Female,19.0,Female,22.0,Gun,Fatal,Fog,27.3,Dining
+05-05-2022,09:07:25,Assault,Tambaram,12.86015561,80.28690358,Female,62.0,Female,23.0,Blunt Object,,Rain,27.8,Shopping
+12-09-2022,02:25:55,Forgery,Sholinganallur,12.91882965,80.13326716,Male,22.0,Other,58.0,,Minor,Overcast,26.3,Working
+08/14/2023,04:15:06,Theft,Kodambakkam,12.86904513,80.20059975,Other,22.0,Male,67.0,Blunt Object,Fatal,Fog,33.7,Shopping
+10/26/2023,18:41:40,Drug Offense,Ambattur,13.13984057,80.12903472,Female,22.0,Female,46.0,Gun,Major,Fog,21.0,Sleeping
+05/31/2020,09:29:28,Assault,Adyar,12.92905816,80.12176926,Other,23.0,Other,56.0,Blunt Object,Fatal,Fog,30.0,Working
+02/22/2024,01:28:58,Burglary,Tambaram,13.01175204,80.17534183,Male,46.0,Male,69.0,Gun,,Fog,31.6,Walking
+05/22/2021,22:28:28,Theft,Tambaram,12.93049819,80.12072339,Female,67.0,Female,61.0,,Major,Clear,25.9,Sleeping
+10/21/2023,12:18:16,Theft,Tambaram,12.8285257,80.21590303,Female,37.0,Other,62.0,Blunt Object,Minor,Fog,32.8,Walking
+09/26/2021,17:24:41,Drug Offense,Ambattur,12.84472782,80.22570772,Other,61.0,Other,23.0,Blunt Object,Major,Clear,26.5,Driving
+03/14/2021,10:49:31,Burglary,Guindy,13.14999182,80.08873629,Female,68.0,Male,50.0,,Major,Fog,22.4,Shopping
+11-11-2020,05:11:53,Theft,Sholinganallur,12.95318569,80.15271465,Other,64.0,Male,46.0,Gun,Fatal,Rain,29.6,Jogging
+07/14/2024,15:57:53,Burglary,Tambaram,13.03740739,80.19260485,Female,47.0,Female,67.0,Blunt Object,Fatal,Rain,34.7,Working
+05/23/2023,04:55:16,Assault,Porur,12.96820673,80.14280303,Male,63.0,Other,25.0,Gun,,Rain,24.9,Sleeping
+10/28/2020,13:05:58,Burglary,Ambattur,12.9578948,80.13739627,Male,44.0,Male,43.0,Gun,Minor,Hazy,37.9,Jogging
+04-04-2021,00:20:59,Robbery,Ambattur,13.0501465,80.13382259,Male,26.0,Male,36.0,Blunt Object,Minor,Partly Cloudy,28.4,Sleeping
+01-11-2020,02:01:16,Burglary,Ambattur,12.85233187,80.28505649,Other,51.0,Female,25.0,Gun,Minor,Overcast,22.2,Driving
+05-09-2022,20:50:39,Embezzlement,T Nagar,12.83880026,80.27628672,Other,52.0,Male,58.0,Knife,Minor,Overcast,27.7,Sleeping
+12/23/2021,07:36:26,Theft,Porur,13.03387522,80.18087114,Female,22.0,Other,52.0,,Fatal,Hazy,20.8,Shopping
+02-03-2022,08:47:01,Drug Offense,Chromepet,12.82364585,80.11028148,Other,58.0,Male,67.0,Gun,Minor,Clear,26.3,Jogging
+07/24/2024,20:11:53,Embezzlement,Sholinganallur,12.96748591,80.0955695,Male,22.0,Other,67.0,Blunt Object,,Overcast,23.6,Working
+02-12-2021,01:20:59,Forgery,Avadi,12.93937842,80.25385152,Female,34.0,Male,66.0,Knife,Major,Overcast,35.5,Walking
+11-08-2024,20:21:17,Robbery,Chromepet,12.92880671,80.27237163,Other,46.0,Female,39.0,Knife,Fatal,Partly Cloudy,29.0,Working
+11/29/2022,08:51:05,Vandalism,T Nagar,12.9507125,80.29877454,Male,52.0,Female,38.0,,,Overcast,31.9,Jogging
+07-02-2022,19:45:27,Theft,Sholinganallur,12.95536793,80.16178241,Other,40.0,Other,45.0,Gun,,Clear,32.1,Shopping
+01/14/2022,16:51:47,Theft,Adyar,12.84997281,80.20189323,Female,20.0,Male,22.0,Knife,Major,Overcast,26.9,Sleeping
+03-07-2020,19:09:43,Embezzlement,Tambaram,12.93020468,80.24077112,Other,26.0,Other,41.0,Blunt Object,Major,Partly Cloudy,25.0,Walking
+02/23/2020,23:11:31,Vandalism,Karapakkam,12.99658545,80.11544417,Female,63.0,Female,31.0,Gun,Fatal,Rain,22.2,Working
+05/31/2020,14:11:57,Embezzlement,T Nagar,13.08367963,80.29189031,Female,60.0,Female,63.0,,Major,Overcast,35.3,Dining
+12/24/2023,22:40:11,Drug Offense,Avadi,12.87848457,80.29628314,Male,33.0,Female,19.0,Gun,Major,Hazy,34.5,Sleeping
+09/22/2020,19:56:05,Robbery,Kodambakkam,12.93935599,80.2292334,Female,51.0,Female,67.0,Blunt Object,,Rain,37.5,Dining
+05/31/2020,14:29:43,Drug Offense,Velachery,13.10728605,80.24506573,Other,55.0,Male,67.0,Knife,Fatal,Fog,36.4,Walking
+08/29/2024,03:33:09,Forgery,Velachery,12.85668844,80.28368446,Male,40.0,Other,36.0,,Major,Rain,31.4,Sleeping
+07/16/2021,04:40:19,Robbery,Avadi,13.0243456,80.19795211,Other,27.0,Male,60.0,Gun,,Clear,21.5,Dining
+04/28/2024,18:16:41,Burglary,Chromepet,13.00024802,80.20452711,Male,49.0,Other,52.0,Gun,Major,Hazy,24.4,Working
+11-03-2023,12:19:29,Robbery,Sholinganallur,12.82096956,80.15990137,Female,47.0,Male,39.0,Knife,Major,Partly Cloudy,25.7,Working
+12-08-2021,12:08:48,Drug Offense,Avadi,12.99657793,80.12977897,Female,25.0,Female,46.0,Knife,Minor,Clear,20.9,Shopping
+11-04-2024,19:26:15,Theft,Ambattur,12.91460254,80.19442176,Female,30.0,Male,49.0,Blunt Object,Fatal,Overcast,29.0,Walking
+03/16/2022,16:29:15,Burglary,Pallavaram,12.92351328,80.0626351,Female,56.0,Other,61.0,Blunt Object,Major,Fog,20.1,Walking
+06-01-2022,04:56:16,Drug Offense,Chromepet,12.94113893,80.0613106,Male,54.0,Other,30.0,Gun,Major,Clear,27.0,Shopping
+04/14/2024,17:17:52,Robbery,Velachery,13.14127899,80.14847593,Female,53.0,Female,66.0,Knife,Minor,Fog,29.2,Sleeping
+03/23/2020,01:02:08,Drug Offense,Chromepet,12.96581045,80.16424714,Other,50.0,Male,38.0,Gun,Minor,Hazy,37.8,Dining
+09/21/2024,09:37:21,Embezzlement,Sholinganallur,12.99702349,80.16872315,Male,41.0,Female,61.0,,Fatal,Fog,25.5,Dining
+11/21/2024,22:40:01,Embezzlement,Kodambakkam,13.13847474,80.245726,Other,54.0,Male,64.0,,Fatal,Rain,29.4,Dining
+06/23/2023,12:09:52,Burglary,Adyar,13.00039959,80.22513023,Male,19.0,Female,38.0,Blunt Object,Minor,Hazy,32.4,Shopping
+10/24/2022,19:58:30,Assault,Sholinganallur,12.84832887,80.10183543,Female,60.0,Female,51.0,Blunt Object,Major,Rain,28.3,Sleeping
+12-02-2021,17:22:43,Forgery,Pallavaram,12.96946304,80.28933435,Female,53.0,Female,32.0,Gun,Major,Partly Cloudy,23.7,Dining
+09/28/2022,10:30:22,Forgery,Kodambakkam,12.84265594,80.21915556,Female,43.0,Female,67.0,Knife,Major,Clear,25.2,Dining
+06-10-2020,11:59:28,Forgery,Sholinganallur,12.96767774,80.100517,Other,35.0,Other,62.0,Gun,Minor,Clear,31.1,Sleeping
+05-05-2021,07:03:42,Burglary,Porur,12.8814928,80.07504949,Female,63.0,Female,24.0,Knife,,Fog,37.6,Driving
+04/13/2022,20:59:56,Embezzlement,Anna Nagar,13.02768854,80.23897776,Female,38.0,Female,59.0,,,Partly Cloudy,30.3,Sleeping
+02/21/2024,23:54:59,Assault,Karapakkam,13.12251481,80.15447125,Male,20.0,Female,68.0,Blunt Object,Minor,Partly Cloudy,37.3,Jogging
+11/30/2024,01:00:19,Robbery,Karapakkam,13.14404786,80.12114041,Other,52.0,Other,49.0,Knife,Fatal,Overcast,23.5,Walking
+11-08-2021,05:46:29,Forgery,Sholinganallur,12.86516967,80.23415447,Female,54.0,Other,66.0,Knife,Minor,Fog,35.4,Shopping
+08/20/2024,13:32:20,Robbery,Perambur,13.03423955,80.0961953,Male,48.0,Female,33.0,,Major,Hazy,24.2,Working
+06/30/2021,10:19:37,Assault,Kodambakkam,13.02878918,80.22319215,Male,60.0,Male,47.0,Gun,Minor,Hazy,32.3,Dining
+04/25/2024,09:44:07,Forgery,Tambaram,13.01511891,80.10478215,Male,48.0,Male,47.0,Gun,Fatal,Partly Cloudy,29.9,Shopping
+03/31/2024,17:51:42,Burglary,Chromepet,12.8866129,80.23868489,Male,51.0,Female,51.0,Gun,,Fog,22.0,Working
+01/26/2023,16:12:36,Theft,Velachery,12.91484117,80.18008539,Male,61.0,Male,63.0,Blunt Object,,Fog,28.0,Walking
+07/17/2022,04:32:26,Embezzlement,Pallavaram,12.82020787,80.16559458,Female,64.0,Male,43.0,Gun,,Partly Cloudy,23.9,Walking
+04-02-2020,13:22:44,Robbery,Avadi,13.14794328,80.2836457,Male,48.0,Male,36.0,Blunt Object,Minor,Rain,33.8,Dining
+08/15/2023,13:23:57,Vandalism,Anna Nagar,13.1043671,80.27669183,Female,23.0,Other,60.0,Knife,Major,Clear,23.2,Sleeping
+03/15/2022,16:08:46,Burglary,Ambattur,12.80121565,80.05568383,Female,47.0,Other,64.0,Blunt Object,Fatal,Rain,24.5,Jogging
+11/13/2020,08:12:59,Robbery,Adyar,13.08331736,80.15481015,Male,33.0,Male,22.0,,,Hazy,30.8,Dining
+11/21/2024,01:15:47,Assault,Perambur,12.95363698,80.18493995,Male,26.0,Other,36.0,Knife,Major,Fog,30.8,Dining
+08-03-2024,10:15:19,Theft,Porur,12.98243787,80.15339005,Female,21.0,Other,55.0,Knife,Fatal,Fog,28.9,Jogging
+08-10-2023,21:24:50,Drug Offense,Sholinganallur,12.94571362,80.0873044,Female,29.0,Other,48.0,Knife,Minor,Overcast,35.4,Driving
+07-08-2024,14:58:03,Vandalism,Perambur,12.99505037,80.08352319,Male,34.0,Male,39.0,,Fatal,Overcast,21.7,Dining
+08/25/2024,06:03:17,Vandalism,Porur,13.01173931,80.05988689,Male,30.0,Other,64.0,Knife,Fatal,Rain,35.7,Jogging
+09-12-2021,00:13:59,Burglary,Sholinganallur,12.84106067,80.299893,Female,33.0,Other,56.0,Knife,Fatal,Rain,29.9,Working
+08-02-2021,12:29:34,Drug Offense,Kodambakkam,12.89154657,80.17820414,Female,47.0,Male,69.0,Blunt Object,Major,Rain,26.7,Shopping
+04-03-2020,18:55:14,Theft,Adyar,12.89127094,80.28368956,Other,64.0,Female,36.0,Knife,Minor,Overcast,24.1,Sleeping
+09-02-2024,07:31:35,Drug Offense,Kodambakkam,13.06717622,80.17215528,Other,59.0,Other,49.0,Blunt Object,Minor,Partly Cloudy,34.3,Driving
+10/13/2020,23:34:31,Theft,Karapakkam,13.11127759,80.29758089,Male,51.0,Male,22.0,,,Hazy,22.5,Dining
+04/18/2021,02:45:09,Assault,Guindy,12.97700652,80.14330017,Other,58.0,Other,57.0,Blunt Object,Fatal,Clear,20.1,Sleeping
+04/22/2022,00:01:33,Forgery,Avadi,13.14211777,80.05428565,Other,61.0,Female,69.0,Knife,,Clear,29.4,Driving
+01/28/2021,19:33:16,Drug Offense,Kodambakkam,13.07822772,80.06975481,Female,47.0,Other,33.0,Knife,Major,Partly Cloudy,34.9,Walking
+08/31/2023,20:48:02,Robbery,Perambur,12.93274241,80.18817536,Male,58.0,Male,62.0,Knife,,Hazy,35.2,Dining
+05/25/2024,10:36:54,Robbery,Karapakkam,12.98485571,80.06063794,Male,62.0,Other,48.0,Gun,,Clear,32.3,Jogging
+01/17/2023,18:42:02,Theft,Karapakkam,13.09764966,80.05391452,Male,55.0,Male,66.0,Blunt Object,,Overcast,22.9,Driving
+03-06-2023,12:43:57,Drug Offense,Perambur,13.06446324,80.08498765,Other,64.0,Male,50.0,Gun,,Clear,27.9,Working
+06-04-2020,10:38:49,Vandalism,Chromepet,12.91423183,80.20853074,Female,49.0,Male,40.0,Blunt Object,Fatal,Rain,32.2,Dining
+02/17/2022,02:49:39,Forgery,Chromepet,12.88625742,80.06837667,Female,27.0,Female,63.0,Knife,Fatal,Overcast,26.5,Walking
+01-11-2020,09:28:23,Forgery,T Nagar,12.84637745,80.09684795,Female,53.0,Other,50.0,Blunt Object,,Clear,21.6,Sleeping
+07-09-2020,19:38:50,Drug Offense,Ambattur,12.93483327,80.12296184,Female,67.0,Male,64.0,Knife,Minor,Partly Cloudy,26.9,Driving
+07-04-2021,09:17:31,Theft,T Nagar,12.85852259,80.11899047,Female,48.0,Male,41.0,Gun,Minor,Partly Cloudy,31.3,Sleeping
+06/16/2023,06:29:06,Theft,Kodambakkam,12.80236858,80.14892299,Other,42.0,Female,46.0,Gun,Fatal,Partly Cloudy,37.5,Driving
+09-07-2021,10:38:44,Burglary,Anna Nagar,12.90996415,80.29114366,Female,36.0,Other,62.0,Blunt Object,Minor,Overcast,26.8,Working
+05/28/2024,12:23:07,Burglary,Pallavaram,13.14904272,80.0949818,Other,19.0,Other,47.0,Knife,Fatal,Overcast,35.0,Walking
+08-04-2024,13:43:31,Theft,Porur,12.90599142,80.11317042,Male,63.0,Female,68.0,Blunt Object,,Hazy,37.8,Shopping
+04-07-2023,12:34:32,Vandalism,Avadi,12.81286781,80.29210701,Other,69.0,Other,56.0,,,Rain,31.8,Jogging
+12-06-2020,20:39:02,Vandalism,Chromepet,12.91605885,80.24905777,Male,18.0,Male,34.0,Knife,Minor,Hazy,26.7,Shopping
+04/30/2024,21:37:44,Theft,Tambaram,13.14919595,80.17069277,Female,44.0,Male,25.0,Knife,Major,Overcast,26.2,Working
+02/27/2021,16:30:22,Embezzlement,T Nagar,12.95335808,80.22419082,Female,22.0,Female,20.0,,,Overcast,31.7,Dining
+06/26/2024,05:59:47,Burglary,Avadi,12.86105863,80.09003393,Other,45.0,Female,32.0,Blunt Object,Minor,Rain,31.5,Shopping
+03/21/2022,00:47:39,Burglary,Anna Nagar,13.00727111,80.14720895,Other,31.0,Male,35.0,,,Fog,23.4,Jogging
+02-07-2021,14:07:16,Embezzlement,Avadi,13.13807074,80.12835103,Female,57.0,Female,55.0,,Major,Overcast,35.2,Sleeping
+12/19/2020,21:45:51,Forgery,Karapakkam,13.01506958,80.07118799,Male,38.0,Male,33.0,Gun,,Rain,26.7,Driving
+11-12-2022,12:26:38,Theft,Pallavaram,12.93429849,80.09643842,Other,52.0,Other,59.0,Knife,Minor,Hazy,25.2,Driving
+10-06-2021,14:39:03,Drug Offense,Adyar,12.96961312,80.09878212,Female,53.0,Other,59.0,Blunt Object,Fatal,Partly Cloudy,28.9,Dining
+09/16/2024,14:31:10,Robbery,Pallavaram,12.81080125,80.24026415,Female,20.0,Female,32.0,Gun,Minor,Hazy,30.2,Working
+04/17/2024,15:35:32,Robbery,Pallavaram,12.83997233,80.24377826,Female,52.0,Male,66.0,Blunt Object,Minor,Hazy,21.8,Working
+08/31/2023,07:19:55,Assault,Anna Nagar,12.89198533,80.26554991,Male,46.0,Male,67.0,Knife,Minor,Partly Cloudy,30.6,Jogging
+10/29/2024,22:39:40,Vandalism,Velachery,13.01565292,80.24621233,Male,69.0,Male,54.0,Gun,Major,Fog,29.7,Jogging
+12-12-2023,09:18:36,Forgery,Ambattur,12.98004525,80.27503882,Male,26.0,Female,21.0,Gun,Minor,Partly Cloudy,35.6,Driving
+10/26/2020,22:20:53,Burglary,Chromepet,13.09524448,80.14817519,Male,54.0,Other,35.0,Blunt Object,Fatal,Hazy,21.4,Working
+04/23/2024,02:25:32,Forgery,Sholinganallur,13.12771764,80.14226779,Female,38.0,Other,18.0,,Fatal,Partly Cloudy,32.0,Jogging
+10-07-2024,02:50:34,Vandalism,Guindy,13.138845,80.25621191,Female,35.0,Female,36.0,Gun,Minor,Fog,35.3,Working
+12-04-2021,21:48:03,Assault,T Nagar,13.01916283,80.25917554,Male,25.0,Male,46.0,Blunt Object,,Hazy,23.6,Dining
+09/27/2020,20:19:10,Forgery,T Nagar,13.02910579,80.11259732,Female,60.0,Other,28.0,,Fatal,Partly Cloudy,25.5,Dining
+03/26/2024,07:27:41,Robbery,Sholinganallur,12.83331429,80.10335529,Male,26.0,Other,32.0,Blunt Object,,Clear,32.5,Working
+09-03-2020,13:44:08,Embezzlement,T Nagar,12.8801314,80.07233277,Male,24.0,Female,41.0,Gun,Minor,Hazy,33.9,Working
+11/25/2024,04:41:43,Theft,T Nagar,12.9856779,80.05211869,Other,28.0,Female,40.0,Knife,Minor,Hazy,31.1,Shopping
+10/27/2024,06:05:57,Robbery,Velachery,13.06335598,80.19739348,Female,40.0,Female,38.0,Knife,Minor,Overcast,31.6,Driving
+02-07-2023,19:38:46,Forgery,Chromepet,13.12944774,80.0567061,Other,37.0,Male,51.0,Knife,Fatal,Overcast,31.6,Working
+06/13/2024,07:31:24,Robbery,Guindy,12.97485389,80.19848244,Other,18.0,Female,38.0,Knife,Fatal,Fog,27.6,Sleeping
+10/30/2023,05:48:30,Robbery,Adyar,13.00557722,80.05344836,Male,20.0,Male,68.0,Blunt Object,Major,Partly Cloudy,32.8,Working
+04/30/2022,13:44:25,Robbery,Porur,12.98779769,80.20401176,Female,23.0,Female,23.0,Knife,Minor,Fog,25.9,Sleeping
+07/23/2023,20:43:41,Robbery,Kodambakkam,13.04453656,80.23248959,Male,21.0,Male,23.0,Blunt Object,,Hazy,31.0,Walking
+09/25/2021,21:47:42,Theft,T Nagar,12.80443274,80.08430295,Male,28.0,Female,40.0,Gun,Minor,Overcast,22.3,Working
+11/23/2024,08:46:56,Robbery,Chromepet,13.1149641,80.13375276,Female,35.0,Other,22.0,Gun,,Hazy,28.2,Jogging
+04/23/2020,15:54:36,Theft,Tambaram,12.85505849,80.24333224,Other,61.0,Other,25.0,Knife,,Clear,35.5,Walking
+05/15/2021,01:30:23,Vandalism,Karapakkam,12.85252963,80.28279002,Male,53.0,Other,65.0,Blunt Object,Minor,Overcast,24.5,Dining
+10/17/2021,08:52:04,Drug Offense,T Nagar,12.97571433,80.27548525,Male,32.0,Other,20.0,Blunt Object,,Hazy,35.6,Working
+09/26/2024,09:20:05,Embezzlement,Adyar,12.92912178,80.12289877,Female,65.0,Other,33.0,Blunt Object,Major,Fog,37.5,Working
+05-08-2024,06:46:57,Burglary,Velachery,12.80223226,80.15250903,Male,52.0,Female,58.0,,Major,Clear,33.7,Shopping
+10-04-2024,23:46:19,Robbery,Guindy,12.98543507,80.1095419,Female,21.0,Male,63.0,Gun,,Clear,36.6,Working
+11/30/2022,13:44:57,Drug Offense,Anna Nagar,13.14109418,80.0712256,Male,50.0,Male,58.0,Blunt Object,,Fog,30.2,Shopping
+09/18/2023,04:15:18,Forgery,Ambattur,12.91025312,80.25020421,Other,65.0,Female,38.0,Blunt Object,Major,Rain,21.3,Driving
+10-05-2020,18:06:09,Robbery,Velachery,12.95734836,80.12850832,Male,52.0,Female,67.0,Knife,Fatal,Overcast,28.3,Working
+09-02-2020,02:10:51,Forgery,Ambattur,13.04664668,80.20082562,Male,38.0,Male,23.0,Knife,Major,Hazy,29.2,Dining
+09-04-2021,08:52:11,Assault,Perambur,13.09911046,80.18898844,Other,33.0,Male,47.0,,Minor,Clear,20.2,Working
+05/18/2024,07:08:12,Vandalism,Tambaram,13.04019984,80.28439372,Male,55.0,Other,34.0,,,Clear,23.6,Dining
+06/27/2022,04:05:57,Drug Offense,T Nagar,12.81494371,80.16524873,Male,54.0,Female,64.0,Blunt Object,Fatal,Clear,26.9,Shopping
+12/19/2020,11:13:58,Theft,Kodambakkam,12.89794909,80.27085595,Male,57.0,Other,57.0,Knife,Major,Hazy,27.4,Sleeping
+09-08-2022,01:05:17,Vandalism,Velachery,12.94673219,80.21066313,Other,33.0,Other,69.0,,Fatal,Partly Cloudy,26.5,Sleeping
+05/19/2024,15:22:58,Drug Offense,Perambur,12.89465249,80.05651574,Other,32.0,Male,69.0,Gun,,Hazy,29.5,Working
+04-11-2023,07:10:06,Burglary,Porur,12.88440348,80.18342239,Other,21.0,Male,54.0,Blunt Object,Major,Rain,23.2,Sleeping
+10/13/2021,23:44:22,Assault,Sholinganallur,13.04519628,80.28688968,Other,27.0,Other,30.0,Blunt Object,Major,Rain,28.8,Walking
+04/25/2020,07:38:14,Assault,Avadi,12.96729615,80.1329335,Other,30.0,Male,39.0,Knife,Major,Clear,20.4,Sleeping
+12/14/2023,04:49:07,Drug Offense,T Nagar,12.93075677,80.2854808,Female,55.0,Male,39.0,Gun,Major,Rain,37.6,Dining
+06/13/2022,20:31:41,Drug Offense,Velachery,13.04751402,80.19049433,Other,68.0,Female,32.0,Knife,Fatal,Overcast,33.2,Jogging
+09/17/2020,05:46:00,Vandalism,Ambattur,13.1479991,80.29129599,Male,29.0,Other,38.0,Knife,,Hazy,22.5,Dining
+06-08-2020,07:22:20,Theft,Porur,13.10986209,80.0721815,Other,60.0,Other,64.0,Gun,Fatal,Clear,24.8,Driving
+11/20/2023,02:22:16,Robbery,Sholinganallur,12.80044841,80.14648427,Other,44.0,Male,44.0,Blunt Object,Fatal,Overcast,29.8,Walking
+08/24/2024,15:50:55,Burglary,Velachery,12.9579506,80.24979864,Male,36.0,Male,38.0,Gun,,Clear,26.2,Shopping
+11/25/2020,23:04:35,Robbery,Tambaram,13.00791069,80.20341118,Female,63.0,Male,45.0,Knife,Fatal,Rain,21.0,Jogging
+02/24/2021,06:26:44,Forgery,Porur,12.89853308,80.10938707,Male,43.0,Other,53.0,Blunt Object,Minor,Clear,26.5,Shopping
+06/28/2020,09:52:42,Embezzlement,Guindy,12.83394541,80.10173825,Other,36.0,Male,48.0,,Major,Hazy,28.5,Dining
+06/26/2021,02:41:34,Vandalism,Velachery,12.92985718,80.1453613,Male,46.0,Male,34.0,Blunt Object,Fatal,Overcast,24.1,Jogging
+03-01-2023,01:09:48,Robbery,T Nagar,13.03384941,80.25204504,Female,66.0,Other,32.0,,Fatal,Fog,27.5,Sleeping
+11-08-2023,15:36:56,Burglary,Anna Nagar,12.90459824,80.14870109,Other,20.0,Other,54.0,Knife,,Hazy,23.1,Driving
+03-09-2021,06:08:02,Vandalism,T Nagar,13.14589798,80.15884831,Other,27.0,Other,34.0,Gun,,Clear,27.0,Shopping
+02-04-2023,10:54:17,Embezzlement,Karapakkam,13.10571319,80.24663766,Other,55.0,Other,68.0,Blunt Object,,Hazy,22.7,Sleeping
+04/19/2023,18:48:06,Robbery,Pallavaram,13.07284064,80.24643641,Other,40.0,Female,34.0,Blunt Object,Fatal,Fog,31.0,Walking
+12/18/2020,08:25:09,Vandalism,Adyar,12.93852746,80.26973941,Other,33.0,Male,65.0,Blunt Object,Major,Overcast,20.4,Working
+06/13/2024,09:19:17,Embezzlement,Ambattur,13.043664,80.07455435,Male,26.0,Female,65.0,Blunt Object,Major,Overcast,33.1,Sleeping
+08/15/2023,02:12:28,Burglary,Karapakkam,13.0883893,80.2352362,Other,41.0,Male,50.0,Knife,,Overcast,32.8,Shopping
+10-04-2020,16:56:36,Assault,Velachery,12.86746721,80.25823248,Male,33.0,Male,47.0,,Major,Partly Cloudy,23.6,Jogging
+08/13/2024,14:32:25,Robbery,Porur,12.81069712,80.14311669,Other,46.0,Male,48.0,Gun,Major,Rain,35.1,Jogging
+03/13/2024,22:05:18,Assault,Perambur,12.81737786,80.26345533,Male,32.0,Other,32.0,Knife,Major,Partly Cloudy,27.4,Walking
+11-05-2024,21:00:30,Theft,Porur,12.86062023,80.2502162,Male,34.0,Other,69.0,Gun,Major,Hazy,36.1,Working
+12/15/2021,14:16:13,Embezzlement,Kodambakkam,13.03701865,80.25607771,Female,55.0,Male,18.0,Gun,Major,Overcast,32.3,Shopping
+05-10-2020,10:17:40,Drug Offense,Ambattur,12.89690973,80.2140299,Other,37.0,Male,27.0,Knife,,Fog,27.3,Jogging
+10/26/2023,04:46:01,Embezzlement,Kodambakkam,12.8907992,80.15464142,Female,65.0,Male,55.0,Knife,Major,Partly Cloudy,32.8,Dining
+12/30/2022,20:50:30,Drug Offense,Avadi,12.90506819,80.09249667,Other,53.0,Male,36.0,,Fatal,Rain,33.3,Dining
+07/13/2024,17:48:58,Theft,Porur,13.11485691,80.21360866,Male,40.0,Male,65.0,Gun,Fatal,Overcast,26.7,Sleeping
+08/25/2021,14:54:07,Embezzlement,Adyar,13.10323768,80.19589365,Other,22.0,Female,30.0,,Fatal,Fog,25.4,Walking
+11/18/2024,04:08:12,Drug Offense,Perambur,13.14551706,80.27321128,Female,27.0,Female,63.0,Knife,,Hazy,26.0,Driving
+10-03-2021,20:03:00,Embezzlement,Kodambakkam,12.87328383,80.24338557,Other,66.0,Male,49.0,,Minor,Fog,27.8,Shopping
+04-06-2022,13:30:24,Assault,Adyar,12.98682391,80.23266477,Male,38.0,Other,30.0,,,Partly Cloudy,33.2,Driving
+11/21/2023,11:19:08,Robbery,Perambur,12.97616777,80.12652877,Male,20.0,Female,36.0,Blunt Object,Major,Hazy,36.0,Driving
+12-02-2021,15:22:48,Burglary,Velachery,13.13182952,80.27955135,Female,19.0,Male,32.0,Knife,Minor,Partly Cloudy,20.4,Sleeping
+12-12-2020,03:23:45,Assault,Perambur,13.10679045,80.11394729,Other,57.0,Male,56.0,,,Partly Cloudy,35.1,Walking
+11/13/2023,03:26:28,Vandalism,T Nagar,12.99154883,80.16859908,Male,31.0,Other,61.0,,Major,Hazy,31.9,Dining
+12-01-2022,08:39:38,Theft,Perambur,13.09072845,80.07622856,Other,57.0,Male,36.0,,,Hazy,23.6,Driving
+05-12-2024,08:53:33,Burglary,Tambaram,13.04620286,80.1238378,Male,53.0,Female,31.0,Blunt Object,Major,Rain,20.0,Dining
+07-01-2020,03:53:36,Embezzlement,Velachery,13.13230611,80.24488156,Male,64.0,Other,24.0,Gun,Minor,Hazy,37.8,Jogging
+06/24/2021,14:03:06,Theft,Ambattur,12.81380558,80.12264179,Other,38.0,Female,65.0,,,Clear,20.2,Driving
+09/20/2023,20:10:21,Drug Offense,Karapakkam,12.95320008,80.20545176,Other,23.0,Female,39.0,Knife,,Hazy,27.2,Shopping
+07-10-2021,12:44:54,Embezzlement,Chromepet,12.94760894,80.27153097,Male,25.0,Male,62.0,,Minor,Clear,27.5,Sleeping
+09/15/2022,18:43:28,Theft,Pallavaram,12.93291277,80.13964973,Male,61.0,Other,26.0,Blunt Object,Fatal,Clear,36.0,Shopping
+04-04-2020,02:16:41,Drug Offense,Adyar,13.04659886,80.21948223,Other,54.0,Other,54.0,Knife,Major,Fog,29.4,Dining
+06/20/2023,03:27:42,Burglary,Anna Nagar,12.92101232,80.21907389,Female,27.0,Other,57.0,,,Partly Cloudy,36.8,Sleeping
+10-04-2024,15:54:31,Theft,T Nagar,13.0630005,80.13015845,Female,35.0,Male,50.0,Knife,Fatal,Hazy,34.7,Walking
+07/29/2022,14:51:36,Embezzlement,T Nagar,13.09980623,80.16176703,Male,49.0,Other,59.0,,,Hazy,27.4,Sleeping
+01/29/2023,00:52:05,Forgery,Karapakkam,12.97791821,80.10171281,Other,47.0,Female,41.0,,Minor,Hazy,26.0,Working
+06/23/2023,19:30:45,Drug Offense,Sholinganallur,12.95838636,80.07435926,Other,32.0,Male,39.0,Gun,Major,Fog,29.4,Dining
+08-05-2020,01:57:10,Embezzlement,Velachery,13.08764353,80.23562772,Female,24.0,Female,57.0,Knife,Minor,Clear,36.7,Shopping
+03/17/2021,14:52:50,Burglary,Sholinganallur,12.91827674,80.23928734,Male,58.0,Other,55.0,,Fatal,Hazy,31.9,Sleeping
+10-02-2020,15:00:33,Assault,Avadi,13.1273579,80.25970403,Female,50.0,Male,62.0,Knife,Minor,Clear,27.0,Sleeping
+05/26/2023,10:32:56,Vandalism,Perambur,13.14282527,80.27897756,Male,35.0,Female,39.0,Gun,Fatal,Rain,22.5,Sleeping
+12-04-2023,23:32:19,Drug Offense,Sholinganallur,13.05788653,80.18839539,Male,30.0,Male,57.0,Gun,Major,Partly Cloudy,22.4,Dining
+08/24/2023,05:32:34,Drug Offense,Sholinganallur,12.84039184,80.13805945,Female,55.0,Other,60.0,Blunt Object,Major,Hazy,34.5,Sleeping
+08-06-2020,00:24:09,Assault,Porur,12.81981167,80.11674457,Male,36.0,Other,34.0,Knife,,Partly Cloudy,34.1,Driving
+03/23/2024,17:02:22,Embezzlement,T Nagar,13.01563809,80.2188815,Other,32.0,Other,59.0,Blunt Object,Minor,Fog,34.1,Working
+11/26/2023,09:44:42,Assault,Karapakkam,12.93355392,80.15414156,Other,38.0,Other,21.0,,Major,Rain,31.2,Working
+10/28/2024,14:53:14,Drug Offense,Chromepet,13.00593487,80.23461251,Male,67.0,Other,30.0,Gun,Fatal,Rain,37.7,Walking
+01/17/2021,05:47:32,Robbery,Perambur,12.81422198,80.11977806,Female,26.0,Male,55.0,Gun,,Overcast,28.4,Driving
+03/22/2020,04:59:20,Assault,Chromepet,13.12633365,80.20390217,Other,37.0,Female,68.0,Gun,,Partly Cloudy,25.7,Driving
+01-11-2021,16:04:50,Theft,Perambur,12.99007805,80.15085427,Female,32.0,Male,60.0,Gun,Major,Overcast,25.3,Working
+06/20/2023,16:30:35,Assault,T Nagar,13.03412846,80.16141681,Other,57.0,Other,33.0,,Major,Hazy,36.5,Walking
+03-01-2022,08:34:46,Forgery,Adyar,13.11896757,80.25552727,Female,50.0,Other,46.0,Blunt Object,,Overcast,36.2,Driving
+10/18/2021,16:05:06,Theft,Chromepet,12.98829119,80.05183265,Male,31.0,Other,58.0,Knife,Fatal,Clear,23.7,Working
+12-10-2023,23:49:27,Robbery,Sholinganallur,13.04011524,80.05593824,Other,39.0,Male,23.0,,,Rain,34.3,Sleeping
+05/24/2020,18:52:14,Forgery,Perambur,12.93581141,80.20755432,Female,38.0,Male,42.0,,,Partly Cloudy,33.0,Walking
+03/28/2024,23:37:02,Robbery,Tambaram,13.12481671,80.07653389,Other,37.0,Other,23.0,Gun,Fatal,Hazy,27.1,Dining
+2025-11-08,10:45 am,Assault,Tambaram,12.9654335,80.28721862,Female,,,,,,,,
+2025-11-08,10:45 pm,Assault,Tambaram,12.43637,80.9364,Female,,,,,,,,
